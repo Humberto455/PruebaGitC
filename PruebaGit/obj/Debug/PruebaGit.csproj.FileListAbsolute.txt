@@ -1,0 +1,7 @@
+C:\Users\hurur\Desktop\CursosYT\Curso-Git\PruebaGitC\PruebaGit\bin\Debug\PruebaGit.exe.config
+C:\Users\hurur\Desktop\CursosYT\Curso-Git\PruebaGitC\PruebaGit\bin\Debug\PruebaGit.exe
+C:\Users\hurur\Desktop\CursosYT\Curso-Git\PruebaGitC\PruebaGit\bin\Debug\PruebaGit.pdb
+C:\Users\hurur\Desktop\CursosYT\Curso-Git\PruebaGitC\PruebaGit\obj\Debug\PruebaGit.csproj.AssemblyReference.cache
+C:\Users\hurur\Desktop\CursosYT\Curso-Git\PruebaGitC\PruebaGit\obj\Debug\PruebaGit.csproj.CoreCompileInputs.cache
+C:\Users\hurur\Desktop\CursosYT\Curso-Git\PruebaGitC\PruebaGit\obj\Debug\PruebaGit.exe
+C:\Users\hurur\Desktop\CursosYT\Curso-Git\PruebaGitC\PruebaGit\obj\Debug\PruebaGit.pdb

@@ -11,6 +11,20 @@ namespace PruebaGit
         static void Main(string[] args)
         {
             Console.WriteLine("\n\tOperaciones!");
+            Operaciones op1 = new Operaciones();
+
+            op1.Suma(5, 5);
+
+        }
+    }
+
+    class Operaciones
+    {
+        int resultado;
+        public void Suma(int valor1,int valor2)
+        {
+            resultado = valor1 + valor2;
+            Console.WriteLine("Resultado de la suma: " + resultado);
         }
     }
 }
